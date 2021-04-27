@@ -4,9 +4,9 @@
 
 > [Thanks for non-commercial open source development authorization by JetBrains](https://www.jetbrains.com/?from=v2ray-agent)
 
-> [English Version](https://github.com/ThonyDroidYT/v2ray-agent/blob/master/README_ES.md)
+> [English Version](https://github.com/mack-a/v2ray-agent/blob/master/documents/en/README_EN.md)
 
-> [Spanish Version](https://github.com/mack-a/v2ray-agent/blob/master/documents/en/README_EN.md)
+> [Spanish Version](https://github.com/ThonyDroidYT/v2ray-agent/blob/master/README_ES.md)
 
 - [Cloudflare 优化方案](https://github.com/mack-a/v2ray-agent/blob/master/documents/optimize_V2Ray.md)
 - [流量中转](https://github.com/mack-a/v2ray-agent/blob/master/documents/traffic_relay.md)
